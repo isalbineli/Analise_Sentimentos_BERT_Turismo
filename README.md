@@ -16,11 +16,11 @@ Para que o projeto funcione:
 
 ## 📱 Demonstração
 
+<br><br>
 <div align="center">
 
-
-
 </div>
+<br>
 
 ## ✨ Tecnologia
 <table>
