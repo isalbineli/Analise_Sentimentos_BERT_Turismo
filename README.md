@@ -14,8 +14,7 @@ Para que o projeto funcione:
 - compile o código Fine_Tuning_Modelo_BERT.py usando a base de dados já rotulados disponível aqui nesse repositório para realizar o fine tuning do modelo e treinar para que atenda as necessidades específicas
 - compile o código app.py para interagir com o usuário e realizar a apresentação dos dados.
 
-<br><br>
-### Demonstration 📱
+## 📱 Demonstração
 
 <div align="center">
 
@@ -23,9 +22,7 @@ Para que o projeto funcione:
 
 </div>
 
-<br>
-
-### Technology ✨
+## ✨ Tecnologia
 <table>
     <tr>
         <td><b>Modelo</td>
