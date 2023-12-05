@@ -19,6 +19,8 @@ Para que o projeto funcione:
 <br><br>
 <div align="center">
 
+[![Assista o video e entenda o funcionamento]()(https://youtu.be/ly-ZDsGnjPQ)
+
 </div>
 <br>
 
