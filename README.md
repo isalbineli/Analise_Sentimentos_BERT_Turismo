@@ -16,6 +16,8 @@ Para que o projeto funcione:
 
 ## 📱 Demonstração
 
+Clique na imagem abaixo e assista o video no youtube com a demonstração do funcionamento da aplicação :)
+
 <br><br>
 <div align="center">
 
